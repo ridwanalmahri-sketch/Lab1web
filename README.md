@@ -50,13 +50,11 @@ Menambahkan gambar ke dalam halaman web menggunakan tag <img> dengan atribut src
 
 ```
 7. Menambahkan Hyperlink
-
 Membuat tautan atau hyperlink menggunakan tag <a> dengan atribut href untuk menghubungkan halaman web internal (misalnya halaman2.html) maupun tautan eksternal ke website lain.
-```
+
 <img width="894" height="127" alt="image" src="https://github.com/user-attachments/assets/560d9599-b708-492c-9262-af86a92d0dfa" />
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/99318ca5-2687-412f-9329-14f7a7092b7f" />
-
 ```
 8. Menambahkan List
 
