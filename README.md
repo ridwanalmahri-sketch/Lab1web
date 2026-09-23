@@ -59,7 +59,7 @@ Membuat tautan atau hyperlink menggunakan tag <a> dengan atribut href untuk meng
 8. Menambahkan List
 
 Membuat daftar item menggunakan unordered list (<ul>) untuk daftar tanpa nomor dan ordered list (<ol>) untuk daftar berurutan.
-```
+
 <img width="940" height="126" alt="image" src="https://github.com/user-attachments/assets/024422f8-f0c5-4ca0-a68f-5d4227c3c807" />
 
 <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/4331232c-ab19-496a-8a5e-10443d3c5f81" />
@@ -82,6 +82,4 @@ Menggabungkan seluruh elemen HTML yang telah dipelajari sebelumnya—mulai dari 
 
 <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/75096653-1f48-4360-8061-ce52debb8385" />
 
-
 <img width="940" height="896" alt="image" src="https://github.com/user-attachments/assets/ac476f6e-7464-456e-a16d-956bbd5454bc" />
-
