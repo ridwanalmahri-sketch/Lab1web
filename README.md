@@ -1,9 +1,11 @@
 Praktikum 1: HTML. Dasar – Pemograman Web
 ```
 1. Struktur file
+```
 <img width="518" height="177" alt="image" src="https://github.com/user-attachments/assets/d4473180-5e47-4af1-bc88-f0ff242a8165" />
-
+```
 2. Struktur Dasar HTML
+```
 
 Membuat file indeks.html dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi <!DOCTYPE html>, tag <html>, <head>, <title>, dan <body>.
 
