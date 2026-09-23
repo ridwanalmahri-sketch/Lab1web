@@ -1,9 +1,6 @@
 Praktikum 1: HTML. Dasar – Pemograman Web
-
-Link Github :
-
 1. Struktur file
-
+```
 2. Struktur Dasar HTML
 
 Membuat file indeks.html dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi <!DOCTYPE html>, tag <html>, <head>, <title>, dan <body>.
